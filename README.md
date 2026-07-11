@@ -93,25 +93,37 @@ This repository currently focuses on the following research topics:
 ```text
 research-notes-ai/
 
-│
 ├── README.md
-│
-├── 01-foundations/
-│
-├── 02-llm/
-│
+
 ├── 03-rag/
-│
+│   └── RAG research notes
+
 ├── 04-ai-agents/
-│
+│   └── Agent research notes
+
 ├── 05-software-engineering/
-│
+│   ├── ai-software-engineering.md
+│   ├── code-generation.md
+│   ├── automated-testing.md
+│   ├── software-maintenance.md
+│   └── autonomous-development.md
+
 ├── 06-paper-reviews/
-│
+│   ├── attention-is-all-you-need.md
+│   ├── rag-paper-review.md
+│   ├── react-agent-paper-review.md
+│   ├── swe-agent-paper-review.md
+│   └── llm-software-engineering-survey.md
+
 ├── 07-experiments/
-│
+│   ├── rag-engine-experiment.md
+│   ├── embedding-comparison.md
+│   ├── vector-search-experiment.md
+│   ├── agent-prototype.md
+│   └── evaluation-results.md
+
 ├── assets/
-│
+
 └── references/
 ```
 
