@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Research Notes on Artificial Intelligence
-=======
+
 # 📚 Research Notes on Artificial Intelligence
 
 ![Research](https://img.shields.io/badge/Research-Artificial%20Intelligence-blue)
