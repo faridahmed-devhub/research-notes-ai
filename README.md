@@ -93,38 +93,68 @@ This repository currently focuses on the following research topics:
 ```text
 research-notes-ai/
 
-├── README.md
-
+├── 01-foundations/
+│
+│   ├── machine-learning-basics.md
+│   ├── deep-learning-notes.md
+│   ├── transformer-architecture.md
+│   └── llm-fundamentals.md
+│
+├── 02-mathematics/
+│
+│   ├── linear-algebra-for-ai.md
+│   ├── probability-statistics.md
+│   └── optimization.md
+│
 ├── 03-rag/
-│   └── RAG research notes
-
+│
+│   ├── rag-fundamentals.md
+│   ├── chunking-strategies.md
+│   ├── embedding-models.md
+│   ├── vector-database.md
+│   └── advanced-rag.md
+│
 ├── 04-ai-agents/
-│   └── Agent research notes
-
+│
+│   ├── react-agents.md
+│   ├── agent-memory.md
+│   ├── tool-calling.md
+│   ├── multi-agent-systems.md
+│   └── agent-evaluation.md
+│
 ├── 05-software-engineering/
-│   ├── ai-software-engineering.md
-│   ├── code-generation.md
-│   ├── automated-testing.md
-│   ├── software-maintenance.md
-│   └── autonomous-development.md
-
+│
+│   ├── software-architecture.md
+│   ├── clean-code.md
+│   ├── testing-strategy.md
+│   └── ai-assisted-development.md
+│
 ├── 06-paper-reviews/
-│   ├── attention-is-all-you-need.md
-│   ├── rag-paper-review.md
-│   ├── react-agent-paper-review.md
-│   ├── swe-agent-paper-review.md
-│   └── llm-software-engineering-survey.md
-
+│
 ├── 07-experiments/
-│   ├── rag-engine-experiment.md
-│   ├── embedding-comparison.md
-│   ├── vector-search-experiment.md
-│   ├── agent-prototype.md
-│   └── evaluation-results.md
-
+│
+├── 08-projects/
+│
+│   ├── ai-rag-engine.md
+│   ├── ai-coding-agent.md
+│   └── enterprise-ai-assistant.md
+│
+├── 09-research-ideas/
+│
+│   ├── phd-topics.md
+│   ├── research-problems.md
+│   └── future-directions.md
+│
+├── 10-publications/
+│
+│   ├── papers-to-write.md
+│   └── conference-targets.md
+│
 ├── assets/
-
-└── references/
+│
+├── references/
+│
+└── README.md
 ```
 
 ---
